@@ -1,0 +1,36 @@
+h1{
+    background-color: rgb(51, 255, 10);
+    border: mediumblue;
+    font-family:  Times, serif;
+    font-style: oblique;
+    font-size: 10mm;
+    text-align: center;
+    color: hsl(0, 0%, 1%);
+}
+
+
+div{
+
+    text-align: center;
+
+}
+
+.block{
+  
+  background-color: #c4e606;
+  padding: 14px 28px;
+  font-size: 100px;
+  cursor: default;
+  text-align: center;
+  border-radius: 60%;
+  
+}
+
+.block1{
+ 
+    background-color: #921e1e;
+    padding: 14px 28px;
+    font-size: 100px;
+    cursor: default;
+    text-align: center;
+  }
